@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2020-01-18
 ---
 
 Today is Friday.
